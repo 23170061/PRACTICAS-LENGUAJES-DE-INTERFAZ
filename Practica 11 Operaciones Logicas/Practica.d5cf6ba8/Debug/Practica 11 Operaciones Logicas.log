@@ -1,3 +1,0 @@
-﻿  Assembling main.asm...
-main.asm(33): error A2008: syntax error : in instruction
-C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Practica.d5cf6ba8\Debug\main.obj" /I "C:\irvine\\" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
