@@ -4,7 +4,7 @@
 ## Alumno: Aguirre Grijalva Eduardo Agustin <br>
 ## Docente: Dr. Jose Luis Medina Jimenez <br>
 
-## Indice de practicas <br>
+# Indice de practicas <br>
 1. [Ciclos numéricos](./PRACTICA-01-Ciclos-Numericos)
 2. [Captura y desplegado de mensajes](./PRACTICA-02-Captura-y-Desplegado)
 3. [Comparación y prueba](./PRACTICA-03-Comparacion-y-Prueba)
