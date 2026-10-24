@@ -8,11 +8,11 @@
 1. [Ciclos numéricos](./PRACTICA-01-Ciclos-Numericos)
 2. [Captura y desplegado de mensajes](./PRACTICA-02-Captura-y-Desplegado)
 3. [Comparación y prueba](./PRACTICA-03-Comparacion-y-Prueba)
-4. [Saltos](./PRACTICA-04-Saltos)
+4. [Saltos](./PRACTICA-04-Saltos) <br>
   4.1 [Mayor, menor o igual con entrada del usuario](./PRACTICA-04.1-Mayor-Menor-Igual)
-5. [Condicionales](./PRACTICA-05-Condicionales)
+5. [Condicionales](./PRACTICA-05-Condicionales) <br>
   5.1 [Repetir hasta que el usuario ingrese cero](./PRACTICA-05.1-Repetir-Hasta-Cero)
-6. [Decremento e incremento](./PRACTICA-06-Decremento-e-Incremento)
+6. [Decremento e incremento](./PRACTICA-06-Decremento-e-Incremento) <br>
   6.1 [Control de ocupación de un estacionamiento](./PRACTICA-06.1-Estacionamiento)
 7. [Validación de formato](./PRACTICA-07-Validacion-de-Formato)
 8. [Operaciones aritméticas](./PRACTICA-08-Operaciones-Aritmeticas)
